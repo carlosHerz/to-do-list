@@ -1,5 +1,5 @@
-Two todo List: 
+Two todo Lists: 
 
-one in src/components/todo/ which does not use firebase
+1) src/components/todo/ which does not use firebase
 
-the second one in src/components/todoV2/ which DOES use firebase
+2) src/components/todoV2/ which DOES use firebase
